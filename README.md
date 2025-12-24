@@ -44,7 +44,7 @@ HTML/
 1. Download or clone the repository
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Shan4823/your-repository-name.git
    ```
 
 2. Open the project folder
