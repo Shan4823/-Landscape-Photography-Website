@@ -43,6 +43,9 @@ spotify-web-player-clone/
 ├── style.css
 └── README.md
 
+
+
+
 🚀 How to Run the Project Locally
 
 1. Clone the repository
